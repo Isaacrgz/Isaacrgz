@@ -29,21 +29,10 @@
 <br/>
 &ensp; :o: CSS style
 <br/>
-&ensp; :o: HTML5
+&ensp; :o: HTML5 
 
 :white_check_mark: You can contact me on: 
 <br/>
 &ensp; :o: Linkedin <a href="https://www.linkedin.com/in/isaac-rodr%C3%ADguez-ibarra-8364b9212/">Isaac Rodríguez Ibarra</a>
 <br/>
 &ensp; :o: Email: isaacrgz97@gmail.com
-
-- 👋 Hi, I’m @Isaacrgz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Isaacrgz/Isaacrgz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
