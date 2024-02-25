@@ -1,6 +1,6 @@
 <h1>Hi, I'm Isaac</h1>
 
-<h5>I'm interested in web apps deveploment with <i>Jakarta</i> as back-end technology, and <i>Jquery</i> for front-end technology for dynamic pages.</h5>
+<h5>I'm interested in web apps deveploment with <i>Jakarta</i> as back end technology, and <i>Jquery</i> for front end technology for dynamic pages.</h5>
 
 Some <b>back end</b> APIs and technologies I'm familiar with are:
 <br/>
