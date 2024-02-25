@@ -31,6 +31,14 @@
 <br/>
 &ensp; :o: HTML5 
 
+:heavy_plus_sign: A few other knowedge in:
+<br/>
+&ensp; :o: SQL
+<br/>
+&ensp; :o: JavaFx
+<br/>
+&ensp; :o: Java for Android 
+
 :white_check_mark: You can contact me on: 
 <br/>
 &ensp; :o: Linkedin <a href="https://www.linkedin.com/in/isaac-rodr%C3%ADguez-ibarra-8364b9212/">Isaac Rodríguez Ibarra</a>
