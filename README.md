@@ -1,14 +1,14 @@
 <h1>Hi, I'm Isaac</h1>
 
-<h4>I'm interested in web apps deveploment with Jakarta as back-end technology, and Jquery for front-end technology for dynamic pages.</h4>
+<h5>I'm interested in web apps deveploment with Jakarta as back-end technology, and Jquery for front-end technology for dynamic pages.</h5>
 
-<h6>Some back-end APIs and technologies I'm familiar with are:</h6>
+<h5>Some back-end APIs and technologies I'm familiar with are:</h5>
 <br/>
-:o: Java =========>
+:o: Java
 <br/>
-:o: Jakarta 10 ===>
+:o: <a href="https://jakarta.ee/">Jakarta 10</a>
 <br/>
-:o: GlassFish 7 ====>
+:o: <a href="https://glassfish.org/">GlassFish 7</a>
 <br/>
 :o: Servlet
 <br/>
@@ -17,11 +17,11 @@
 
 <h6>Some front-end APIs and technologies I'm familiar with are:</h6>
 <br/>
-:o: Highcharts ===> https://www.highcharts.com/demo
+:o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
-:o: Bootstrap ====> 
+:o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 <br/>
-:o: Jquery =======> https://api.jquery.com/
+:o: <a href="https://api.jquery.com/">Jquery</a>
 <br/>
 :o: Ajax 
 <br/>
@@ -29,7 +29,7 @@
 <br/>
 :o: CSS style
 <br/>
-:o: HTML
+:o: HTML5
 
 You can contact me on: 
 <br/>
