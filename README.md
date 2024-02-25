@@ -4,15 +4,15 @@
 
 :heavy_plus_sign: Some <b>back end</b> APIs and technologies I'm familiar with are:
 <br/>
-  :o: Java
+&ensp; :o: Java
 <br/>
-  :o: <a href="https://jakarta.ee/">Jakarta 10</a>
+&ensp; :o: <a href="https://jakarta.ee/">Jakarta 10</a>
 <br/>
-  :o: <a href="https://glassfish.org/">GlassFish 7</a>
+&ensp; :o: <a href="https://glassfish.org/">GlassFish 7</a>
 <br/>
-  :o: Servlet
+&ensp; :o: Servlet
 <br/>
-  :o: Websocket
+&ensp; :o: Websocket
 <br/>
 
 :heavy_plus_sign: Some <b>front end</b> APIs and technologies I'm familiar with are:
