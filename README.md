@@ -33,7 +33,9 @@
 
 :heavy_plus_sign: A few other technologies I have knowledge in:
 <br/>
-&ensp; :o: SQL
+&ensp; :o: MSSQL
+<br/>
+&ensp; :o: MySQL
 <br/>
 &ensp; :o: JavaFx
 <br/>
