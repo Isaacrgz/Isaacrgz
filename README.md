@@ -2,7 +2,7 @@
 
 <h5>I'm interested in web apps deveploment with <i>Jakarta</i> as back end technology, and <i>Jquery</i> for front end technology for dynamic pages.</h5>
 
-Some <b>back end</b> APIs and technologies I'm familiar with are:
+:heavy_plus_sign: Some <b>back end</b> APIs and technologies I'm familiar with are:
 <br/>
   :o: Java
 <br/>
@@ -15,9 +15,9 @@ Some <b>back end</b> APIs and technologies I'm familiar with are:
   :o: Websocket
 <br/>
 
-Some <b>front end</b> APIs and technologies I'm familiar with are:
+:heavy_plus_sign: Some <b>front end</b> APIs and technologies I'm familiar with are:
 <br/>
-:o: <a href="https://www.highcharts.com/demo">Highcharts</a>
+&nbsp;:o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
 :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 <br/>
@@ -31,7 +31,7 @@ Some <b>front end</b> APIs and technologies I'm familiar with are:
 <br/>
 :o: HTML5
 
-You can contact me on: 
+:white_check_mark: You can contact me on: 
 <br/>
 :o: Linkedin <a href="https://www.linkedin.com/in/isaac-rodr%C3%ADguez-ibarra-8364b9212/">Isaac Rodríguez Ibarra</a>
 <br/>
