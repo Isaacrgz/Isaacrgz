@@ -17,19 +17,19 @@
 
 :heavy_plus_sign: Some <b>front end</b> APIs and technologies I'm familiar with are:
 <br/>
-&nbsp; :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
+&emsp; :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
-&#160; :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
+&emsp; :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 <br/>
-&ensp; :o: <a href="https://api.jquery.com/">Jquery</a>
+&emsp; :o: <a href="https://api.jquery.com/">Jquery</a>
 <br/>
 &emsp; :o: Ajax 
 <br/>
-:o: JSP
+&emsp; :o: JSP
 <br/>
-:o: CSS style
+&emsp; :o: CSS style
 <br/>
-:o: HTML5
+&emsp; :o: HTML5
 
 :white_check_mark: You can contact me on: 
 <br/>
