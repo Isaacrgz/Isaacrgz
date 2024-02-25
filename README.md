@@ -2,8 +2,7 @@
 
 <h5>I'm interested in web apps deveploment with Jakarta as back-end technology, and Jquery for front-end technology for dynamic pages.</h5>
 
-<h5>Some back-end APIs and technologies I'm familiar with are:</h5>
-<br/>
+Some <e>back-end</e> APIs and technologies I'm familiar with are:
 :o: Java
 <br/>
 :o: <a href="https://jakarta.ee/">Jakarta 10</a>
@@ -15,8 +14,7 @@
 :o: Websocket
 <br/>
 
-<h6>Some front-end APIs and technologies I'm familiar with are:</h6>
-<br/>
+Some <i>front-end</i> APIs and technologies I'm familiar with are:
 :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
 :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
