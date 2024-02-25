@@ -17,13 +17,13 @@
 
 :heavy_plus_sign: Some <b>front end</b> APIs and technologies I'm familiar with are:
 <br/>
-&nbsp;:o: <a href="https://www.highcharts.com/demo">Highcharts</a>
+&nbsp; :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
-:o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
+&#160; :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 <br/>
-:o: <a href="https://api.jquery.com/">Jquery</a>
+&ensp; :o: <a href="https://api.jquery.com/">Jquery</a>
 <br/>
-:o: Ajax 
+&emsp; :o: Ajax 
 <br/>
 :o: JSP
 <br/>
