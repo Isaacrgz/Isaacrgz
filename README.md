@@ -17,25 +17,25 @@
 
 :heavy_plus_sign: Some <b>front end</b> APIs and technologies I'm familiar with are:
 <br/>
-&emsp; :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
+&ensp; :o: <a href="https://www.highcharts.com/demo">Highcharts</a>
 <br/>
-&emsp; :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
+&ensp; :o: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 <br/>
-&emsp; :o: <a href="https://api.jquery.com/">Jquery</a>
+&ensp; :o: <a href="https://api.jquery.com/">Jquery</a>
 <br/>
-&emsp; :o: Ajax 
+&ensp; :o: Ajax 
 <br/>
-&emsp; :o: JSP
+&ensp; :o: JSP
 <br/>
-&emsp; :o: CSS style
+&ensp; :o: CSS style
 <br/>
-&emsp; :o: HTML5
+&ensp; :o: HTML5
 
 :white_check_mark: You can contact me on: 
 <br/>
-:o: Linkedin <a href="https://www.linkedin.com/in/isaac-rodr%C3%ADguez-ibarra-8364b9212/">Isaac Rodríguez Ibarra</a>
+&ensp; :o: Linkedin <a href="https://www.linkedin.com/in/isaac-rodr%C3%ADguez-ibarra-8364b9212/">Isaac Rodríguez Ibarra</a>
 <br/>
-:o: Email: isaacrgz97@gmail.com
+&ensp; :o: Email: isaacrgz97@gmail.com
 
 - 👋 Hi, I’m @Isaacrgz
 - 👀 I’m interested in ...
