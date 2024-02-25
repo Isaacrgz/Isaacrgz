@@ -31,7 +31,7 @@
 <br/>
 &ensp; :o: HTML5 
 
-:heavy_plus_sign: A few other knowedge in:
+:heavy_plus_sign: A few other technologies I have knowledge in:
 <br/>
 &ensp; :o: SQL
 <br/>
