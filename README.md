@@ -1,6 +1,6 @@
 <h1>Hi, I'm Isaac</h1>
 
-<h5>I'm interested in web apps deveploment with <i>Jakarta</i> as back end technology, and <i>GlassFish Server</i> as Web Server.</h5>
+<h5>I'm interested in web apps deveploment with <i>Jakarta EE</i> and <i>GlassFish Server</i> as Web Server.</h5>
 
 :heavy_plus_sign: Some <b>back end</b> APIs and technologies I'm familiar with are:
 <br/>
