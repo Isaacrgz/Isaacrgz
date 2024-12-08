@@ -10,7 +10,9 @@
 <br/>
 &ensp; :o: <a href="https://glassfish.org/">GlassFish 7</a>
 <br/>
-&ensp; :o: Servlet
+&ensp; :o: Servlets
+<br/>
+&ensp; :o: RESTful Web Services
 <br/>
 &ensp; :o: Websocket
 <br/>
@@ -27,19 +29,25 @@
 <br/>
 &ensp; :o: JSP
 <br/>
+&ensp; :o: XHTML
+<br/>
 &ensp; :o: CSS style
 <br/>
 &ensp; :o: HTML5 
 
 :heavy_plus_sign: A few other technologies I have knowledge in:
 <br/>
-&ensp; :o: MSSQL
+&ensp; :o: Microsoft SQL
 <br/>
 &ensp; :o: MySQL
 <br/>
 &ensp; :o: JavaFx
 <br/>
-&ensp; :o: Java for Android 
+&ensp; :o: Java for Android
+<br/>
+&ensp; :o: CameraX (Google API)
+<br/>
+&ensp; :o: ML KIT (Google API)
 
 :white_check_mark: You can contact me on: 
 <br/>
